@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;1,300&display=swap');
+
+* {
+  font-family: Roboto, 'sans-serif';
+}
+
+
 p {
   margin: 0;
   padding: 0;
@@ -114,9 +121,12 @@ a {
 }
 
 .quote {
-  font-size: 18px;
+  font-size: 36px;
   font-style: italic;
+}
 
+.end-of-quote {
+  text-align: right;
 }
 
 .banner-container {
